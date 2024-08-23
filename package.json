@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@spidey/pwa-test-spidey-16",
-  "version": "0.1.26",
+  "name": "@spidey/pwa-test",
+  "version": "0.0.1",
   "repository": "https://github.com/spidey-169/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
